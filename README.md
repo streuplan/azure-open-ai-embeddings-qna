@@ -75,7 +75,7 @@ Please be aware that you need:
 First, clone the repo:
 
 ```console
-git clone https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna-german
+git clone https://github.com/streuplan/azure-open-ai-embeddings-qna-german
 cd azure-open-ai-embeddings-qna-german
 ```
 
