@@ -24,7 +24,7 @@
     },
     "RedisPassword": {
       "type": "securestring",
-      "defaultValue": "redis",
+      "defaultValue": "",
       "metadata": {
         "description": "Redis Password"
       }
